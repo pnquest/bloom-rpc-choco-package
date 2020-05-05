@@ -4,14 +4,16 @@
     <id>bloomrpc</id>
     <version>1.4.1</version>
     <title>bloomRPC (Install)</title>
-    <authors>pquest</authors>
+    <authors>uw-labs</authors>
     <projectUrl>https://github.com/uw-labs/bloomrpc</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/uw-labs/bloomrpc/master/resources/icon.png</iconUrl>
-    <copyright>2020</copyright>
     <licenseUrl>https://github.com/uw-labs/bloomrpc/blob/master/LICENSE</licenseUrl>
+    <packageSourceUrl>https://github.com/pnquest/bloom-rpc-choco-package</packageSourceUrl>
+    <releaseNotes>https://github.com/uw-labs/bloomrpc/releases</releaseNotes>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <tags>bloom-rpc bloomRPC grpc</tags>
-    <description>The bloomRPC grpc testing tool</description>
+    <summary>The bloomRPC grpc testing tool</summary>
+    <description>The missing GUI Client for GRPC services. Inspired by Postman, and GraphQL Playground, BloomRPC aims to give the simplest and most efficient developer experience for exploring and querying your GRPC services.</description>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
