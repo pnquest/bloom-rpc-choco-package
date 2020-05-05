@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>bloom-rpc</id>
+    <version>1.4.1</version>
+    <title>bloom-rpc (Install)</title>
+    <authors>pquest</authors>
+    <projectUrl>https://github.com/uw-labs/bloomrpc</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/uw-labs/bloomrpc/master/resources/icon.png</iconUrl>
+    <copyright>2020</copyright>
+    <licenseUrl>https://github.com/uw-labs/bloomrpc/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <tags>bloom-rpc bloomRPC grpc</tags>
+    <description>The bloomRPC grpc testing tool</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
