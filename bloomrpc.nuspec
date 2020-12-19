@@ -6,6 +6,7 @@
     <title>bloomRPC (Install)</title>
     <authors>uw-labs</authors>
     <projectUrl>https://github.com/uw-labs/bloomrpc</projectUrl>
+    <projectSourceUrl>https://github.com/uw-labs/bloomrpc</projectSourceUrl>
     <iconUrl>https://raw.githubusercontent.com/uw-labs/bloomrpc/master/resources/icon.png</iconUrl>
     <licenseUrl>https://github.com/uw-labs/bloomrpc/blob/master/LICENSE</licenseUrl>
     <packageSourceUrl>https://github.com/pnquest/bloom-rpc-choco-package</packageSourceUrl>
