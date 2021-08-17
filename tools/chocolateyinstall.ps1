@@ -3,8 +3,8 @@ $ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
 #These change with each version released
-$version    = '1.4.1'
-$checksum   = '465106850AE7C38921AF99E4E5D0CDBC8B6B3C4EFE3B6A7B88F2E1F9578D99B3'
+$version    = '1.5.3'
+$checksum   = '7B206B84DA1ED9D43A97182F2602793690A5441207A8E89A9FAE0ECF94B0E9F7'
 
 $url        = "https://github.com/uw-labs/bloomrpc/releases/download/$version/bloomrpc-setup-$version.exe"
 
